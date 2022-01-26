@@ -6,3 +6,5 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'rubocop', '0.93.0'
+gem 'ruby-debug-ide'
+gem 'debase'
